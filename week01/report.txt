@@ -1,0 +1,5 @@
+tugas lab week01 belajar: 
+- membuat folder
+- push & pull repository
+- remove file 
+- menggunakan text editor seperti vi dan nano
