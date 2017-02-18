@@ -4,4 +4,13 @@ w01-170214-14-LR-About: Belajar HKI dan scripting, From: Lecturer
 w01-170214-14-LR-About: Belajar HKI dan scripting, From: Lecturer
 w01-170214-15-PS-About: Mengerjakan tugas lab01
 w01-170214-15-PS-About: Mengerjakan tugas lab01
+w01-170216-13-LR-About: Belajar scripting(sed,awk,regex), From: Lecturer
+w01-170216-13-LR-About: Belajar scripting(sed,awk,regex), From: Lecturer
+w01-170216-14-LR-About: Belajar scripting(sed,awk,regex), From: Lecturer
+w01-170216-14-LR-About: Belajar scripting(sed,awk,regex), From: Lecturer
+w01-170217-19-LR-About: Watching Free Software Video, From: TEDxGeneva
+w01-170217-19-LR-About: Watching Software Licenses Video, From: Video di arsip
+w01-170217-19-LR-About: Watching Copyrights-Trademarks-Patents Video, From: Video di arsip
+
+
 
