@@ -1,0 +1,7 @@
+w03-170228-15-LR-About: Learning stages of Linux Boot Process, From: http://www.thegeekstuff.com/2011/02/linux-boot-process
+w03-170228-15-LR-About: Learning the Introduction of sudo, From: https://www.linux.com/learn/linux-101-introduction-sudo
+w03-170228-17-PS-About: Mengerjakan tugas lab03
+w03-170228-17-PS-About: Mengerjakan tugas lab03
+w03-170228-18-PS-About: Mengerjakan tugas lab03
+w03-170228-18-PS-About: Mengerjakan tugas lab03
+
